@@ -6,11 +6,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="850" alt="Coding Setup GIF"/>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" alt="Sports GIF"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVrNnJyMWR2ODlqMDg0azk3Nng2eGh6eTJ0YmVlZjB3eWo3NzJmciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="900" alt="Coding Sports GIF"/>
 
 </div>
 
