@@ -6,7 +6,11 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJzM3g1Y3QxOHNzbTd1cHd3dW41eHZsOGpkcnM1b2dhN3N6bDV5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="850" alt="Sports and Coding GIF"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="850" alt="Coding Setup GIF"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" alt="Sports GIF"/>
 
 </div>
 
@@ -90,9 +94,9 @@ Data Visualization • Problem Solving
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayushchugh15&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushchugh15&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -102,7 +106,7 @@ Data Visualization • Problem Solving
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://streak-stats.demolab.com?user=Ayushchugh15&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -112,7 +116,7 @@ Data Visualization • Problem Solving
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushchugh15&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true"/>
 
 </div>
 
@@ -122,7 +126,7 @@ Data Visualization • Problem Solving
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushchugh15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
@@ -132,7 +136,7 @@ Data Visualization • Problem Solving
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Ayushchugh15?theme=dark&font=Karma&ext=contest"/>
 
 </div>
 
